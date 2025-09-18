@@ -2,6 +2,8 @@
 #PARV ARORA - 2401420008
 
 --------------------
+code
+
 
 import random
 class ClimateRecords:
