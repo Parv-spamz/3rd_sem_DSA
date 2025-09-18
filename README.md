@@ -67,7 +67,7 @@ class ClimateRecords:
         print(f"Space -> O(years * cities) = O({self.num_years} * {self.num_cities})")
 
 
-if __name__ == "__main__":
+    if __name__ == "__main__":
     num_years = int(input("Enter total years: "))
     num_cities = int(input("Enter total cities: "))
     climate = ClimateRecords(num_years, num_cities)
